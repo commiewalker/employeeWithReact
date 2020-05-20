@@ -5,5 +5,5 @@ Example table contain employee that allow user to search employee by name or sor
 npm install
 ## Usage
 The application allows a search employee by name or sort them by category
-
+<img src="employeeWithReact.png">
 
